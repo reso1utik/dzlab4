@@ -17,7 +17,7 @@
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/reso1utik/dzlab/blob/main/dzlab2.drawio.png)
 
 ## 2. Реализация программы
-!https://github.com/reso1utik/dzlab4/blob/main/main.c
+
 ## 3. Результаты работы программы
 
 #### Разрешение на погрузку
