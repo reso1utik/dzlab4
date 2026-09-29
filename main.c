@@ -1,17 +1,16 @@
-﻿#include <stdio.h>
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
 #include <locale.h>
 #define _CRT_SECURE_NO_DEPRECATE
 
 int main() {
 	setlocale(LC_ALL, "rus");
 	int A, B, C;
-	A = 15;
-	B = 25;
-	C = 30;
+	printf("Введите вес контейнеров A B и C ");
+	scanf(" %d %d %d", &A, &B, &C);
+	
 
-	if ((A % 5 == 0 || A % 5 == 1 || A % 5 == 2 || A % 5 == 3 || A % 5 == 4)
-		&& (B % 5 == 0 || B % 5 == 1 || B % 5 == 2 || B % 5 == 3 || B % 5 == 4)
-		&& (C % 5 == 0 || C % 5 == 1 || C % 5 == 2 || C % 5 == 3 || C % 5 == 4)
+	if ((A % 10 == 0 || A % 10 == 5 ) && (B % 10 == 0 || B % 10 == 5 ) && (C % 10 == 0 || C % 10 == 5 )
 		)
 	{
 		printf("Погрузку Разрещаю");
