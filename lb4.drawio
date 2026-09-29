@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="4RVy99AeTDkVON39rPnr">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gN2IQS5LovJa3SFrh45H-6" edge="1" parent="1" source="gN2IQS5LovJa3SFrh45H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="gN2IQS5LovJa3SFrh45H-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ввод A, B, C&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-7" edge="1" parent="1" source="gN2IQS5LovJa3SFrh45H-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.605;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" target="gN2IQS5LovJa3SFrh45H-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="340" />
+            </Array>
+            <mxPoint x="600" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-10" connectable="0" parent="gN2IQS5LovJa3SFrh45H-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="да" vertex="1">
+          <mxGeometry relative="1" x="-0.653" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-8" edge="1" parent="1" source="gN2IQS5LovJa3SFrh45H-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="gN2IQS5LovJa3SFrh45H-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-9" connectable="0" parent="gN2IQS5LovJa3SFrh45H-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="нет" vertex="1">
+          <mxGeometry relative="1" x="-0.6702" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Проверка кратности 5-ти всех переменных&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="152.73" x="337.63" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Погрузку разрещаю&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="490.36" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="gN2IQS5LovJa3SFrh45H-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Погрузку запрещаю&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="217.63" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
