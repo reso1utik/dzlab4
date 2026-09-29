@@ -14,7 +14,7 @@
    - m%5 != 0 то вывести провести погрузку запрещаю
 4. **Конец**
 ### Блок-схема
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/reso1utik/dzlab/blob/main/dzlab2.drawio.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/reso1utik/dzlab4/blob/main/lb4.png)
 
 ## 2. Реализация программы
 
